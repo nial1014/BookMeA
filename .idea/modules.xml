@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookMe/BookMe.iml" filepath="$PROJECT_DIR$/BookMe/BookMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookMeA.iml" filepath="$PROJECT_DIR$/BookMeA.iml" />
+    </modules>
+  </component>
+</project>
+

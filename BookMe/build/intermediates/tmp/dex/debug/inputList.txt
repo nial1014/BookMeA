@@ -1,0 +1,9 @@
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\classes\debug
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-694fdd53ed15831005ac65e7e26bfbf3b1945a95.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.1-f0e035b4d10442ee79cee08b10f391e3f2d970c3.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-5a27f1a3ba29ac89d855ee756e075dfb3549ab96.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-5cde12192ef45489339d0f7defbc4ef5b173f68f.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cc9499ba6576eb949b1b5d919960cb3e71c85a61.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\classes-5afd07213b2c746d33d9cab664c96e602a341f9f.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\Parse-1.9.1-3d805bdf79dfb47c68fd12ce8587d34fbb64727a.jar
+C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\classes-737986a9306c463603d3af1755a3a67b27065634.jar

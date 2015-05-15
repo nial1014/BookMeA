@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\libs\ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-5cde12192ef45489339d0f7defbc4ef5b173f68f.jar" />
+    </item>
+    <item
+        jar="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\classes-737986a9306c463603d3af1755a3a67b27065634.jar" />
+    </item>
+    <item
+        jar="C:\Users\albi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-5a27f1a3ba29ac89d855ee756e075dfb3549ab96.jar" />
+    </item>
+    <item
+        jar="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cc9499ba6576eb949b1b5d919960cb3e71c85a61.jar" />
+    </item>
+    <item
+        jar="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\Parse-1.9.1-3d805bdf79dfb47c68fd12ce8587d34fbb64727a.jar" />
+    </item>
+    <item
+        jar="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\libs\ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.1-f0e035b4d10442ee79cee08b10f391e3f2d970c3.jar" />
+    </item>
+    <item
+        jar="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\classes-5afd07213b2c746d33d9cab664c96e602a341f9f.jar" />
+    </item>
+    <item
+        jar="C:\Software\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Studium\7. Semester\e-Buisiness\BookMeA\BookMe\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-694fdd53ed15831005ac65e7e26bfbf3b1945a95.jar" />
+    </item>
+
+</items>
